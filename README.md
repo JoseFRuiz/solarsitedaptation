@@ -1,4 +1,4 @@
-# solarsitedaptation
+# Accurate Solar Radiation Site Adaptation: Harnessing Satellite Data and In Situ Measurements
 This repository contains the code and sample data for the project "Accurate Solar Radiation Site Adaptation: Harnessing Satellite Data and In Situ Measurements."
 
 Contents:
